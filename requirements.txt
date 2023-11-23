@@ -1,0 +1,7 @@
+matplotlib
+pyyaml==5.4.1
+tqdm
+scipy
+imageio
+scikit-image
+imageio-ffmpeg
